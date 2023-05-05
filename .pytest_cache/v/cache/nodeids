@@ -1,0 +1,9 @@
+[
+  "TestGoogleSearch.py::TestGoogleSearch::test_search_example_on_google",
+  "TestGoogleSearch.py::TestGoogleSearch::test_search_example_on_google_byChrome",
+  "TestGoogleSearch.py::TestGoogleSearch::test_search_example_on_google_byEdge",
+  "TestGoogleSearch.py::TestGoogleSearch::test_search_example_on_google_byFirefox",
+  "Tests/TestGoogleSearch.py::TestGoogleSearch::test_search_example_on_google_by_chrome",
+  "Tests/TestGoogleSearch.py::TestGoogleSearch::test_search_example_on_google_by_edge",
+  "Tests/TestGoogleSearch.py::TestGoogleSearch::test_search_example_on_google_by_firefox"
+]
