@@ -1,0 +1,28 @@
+1683291936403	geckodriver	INFO	Listening on 127.0.0.1:51193
+1683291939440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51194" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aromanuk\\AppData\\Local\\Temp\\rust_mozprofileJcOJ5y"
+1683291939830	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683291939835	Marionette	INFO	Listening on port 51205
+Read port: 51205
+WebDriver BiDi listening on ws://127.0.0.1:51194
+1683291940011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aromanuk\\AppData\\Local\\Temp\\rust_mozprofileJcOJ5y\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 2115: TypeError: addon is null
+DevTools listening on ws://127.0.0.1:51194/devtools/browser/2d9d33af-5463-444a-8160-09123e443f51
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1683291942966	Marionette	INFO	Stopped listening on port 51205
+Dynamically enable window occlusion 1
+1683292001806	geckodriver	INFO	Listening on 127.0.0.1:51351
+1683292004846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51352" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aromanuk\\AppData\\Local\\Temp\\rust_mozprofileR0ipXN"
+1683292005400	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683292005410	Marionette	INFO	Listening on port 51418
+Read port: 51418
+WebDriver BiDi listening on ws://127.0.0.1:51352
+1683292005655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aromanuk\\AppData\\Local\\Temp\\rust_mozprofileR0ipXN\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 2115: TypeError: addon is null
+DevTools listening on ws://127.0.0.1:51352/devtools/browser/da745805-51ff-4a3f-9494-1f0c4d855927
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1683292009312	Marionette	INFO	Stopped listening on port 51418
+Dynamically enable window occlusion 1
